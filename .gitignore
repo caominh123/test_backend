@@ -1,0 +1,10 @@
+/**/node_modules
+/**/dist
+/**/.vs
+/**/.next
+/**/submodules
+/**/yarn-error.log
+/**/yarn.lock
+/**/package-lock.json
+/**/ecosystem.config.js
+/yarn.lock
